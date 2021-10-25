@@ -1,1 +1,1 @@
-Creating my owns small CSS framework. 
+Creating my own small CSS framework. 
