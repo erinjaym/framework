@@ -83,7 +83,6 @@ body {
     width: 220px
   }
   .container_12 .grid_3 {
-    background-color: blue;
     width: 340px
   }
   .container_12 .grid_4 {
@@ -114,8 +113,25 @@ body {
     width: 1420px
   }
 
-  .row {
+  .header-row {
+    background-color: black;
+    height: 8vh;
+    width: 100vw;
+    }
+
+  .little-row {
   background-color: pink;
-  height: 20vh;
+  height: 15vh;
   width: 100vw;
+  }
+
+  .med-row{
+    height: 30vh;
+    width: 100vw;
+  }
+
+  .big-row{
+    background-color: rgb(36, 180, 180);
+    height: 50vh;
+    width: 100vw;
   }
