@@ -113,6 +113,15 @@ body {
     width: 1420px
   }
 
+
+  .push{
+
+  }
+
+  .pull{
+
+  }
+
   .header-row {
     background-color: black;
     height: 8vh;
@@ -120,17 +129,20 @@ body {
     }
 
   .little-row {
+  border: 5pt solid red;
   background-color: pink;
   height: 15vh;
   width: 100vw;
   }
 
   .med-row{
+    border: 5pt solid red;
     height: 30vh;
     width: 100vw;
   }
 
   .big-row{
+    border: 5pt solid red;
     background-color: rgb(36, 180, 180);
     height: 50vh;
     width: 100vw;

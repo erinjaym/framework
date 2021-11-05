@@ -5,9 +5,9 @@ font-weight: 1em;
 }
 
 .main {
+background-color: ;
 
 
-    
 }
 
 .news-section{
@@ -15,3 +15,8 @@ font-weight: 1em;
 
 }
 
+li {
+
+display: inline;
+
+}
