@@ -1,22 +1,36 @@
-.navbar {
+.nav {
 background-color: black;
 color: white;
-font-weight: 1em;
-}
-
-.main {
-background-color: ;
-
-
-}
-
-.news-section{
-
-
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
 }
 
 li {
-
 display: inline;
+color: white;
+padding: 5px 4px;
+font-size: 1em;
+text-shadow: 1px 1px black ;
+}
 
+li:hover{
+color: red;
+}
+
+.header{
+    background-color: black;
+    padding: 12px 15px 12px 15px;
+    display: flex;
+    justify-content: right;
+}
+    
+.logo {
+    height: auto;
+    width: 70px;
+}
+
+.title{
+font-weight: bold;
+font-size: 3em;
 }
